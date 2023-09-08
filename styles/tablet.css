@@ -1,0 +1,35 @@
+.section-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /* padding: 0 100px 0 100px; */
+}
+.section-container-div {
+    padding: 0 16px 0 16px;
+}
+.section-me-div .section-me-div__desktop {
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.section-blogs-body {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.section-proyects-body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.section-contact form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.section-contact-form label {
+    width: 100%;
+}
+.section-contact .section-contact-form .button-enviar {
+    width: 100px;
+}
