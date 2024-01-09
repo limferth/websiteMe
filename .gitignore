@@ -1,6 +1,9 @@
-assets
+assets/
 
 * .svg
 * .jpg
 * .png
+* vsg
+
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,visualstudiocode,linux,node
 
